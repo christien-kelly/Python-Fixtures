@@ -1,4 +1,4 @@
-import data.data as dt
+import test.data.data as dt
 
 def main(data):
     """

@@ -1,6 +1,6 @@
 import pytest
+import test.data.data as dt
 
-from data.data import * 
 from ..main import main
 
 @pytest.fixture
