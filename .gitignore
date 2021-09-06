@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+!**/__pycache__/
+**/__pycache__/
+/__pycache__/
+*.py[cod]
+*.pyc
+.vscode
+
+# C extensions
+*.so
+
+# Distribution / packaging
+env/
+.nox/
+.pytest_cache/
+.mypy_cache
+osrm/data/
+osrm/downloadOSRM.sh
+osrm/startOSRM_local.sh
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Other Hidden files for Lambda
+requirements.txt
